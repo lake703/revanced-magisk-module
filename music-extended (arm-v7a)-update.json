@@ -1,6 +1,6 @@
 {
-  "version": "v7.08.52",
-  "versionCode": 5,
-  "zipUrl": "https://github.com/lake703/revanced-magisk-module/releases/download/5/music-revanced-extended-magisk-v7.08.52-arm-v7a.zip",
+  "version": "v7.10.51",
+  "versionCode": 9,
+  "zipUrl": "https://github.com/lake703/revanced-magisk-module/releases/download/9/music-revanced-extended-magisk-v7.10.51-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/lake703/revanced-magisk-module/update/build.md"
 }
